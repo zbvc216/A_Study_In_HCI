@@ -337,7 +337,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
             if (success) {
                 finish();
-                Intent toJournal = new Intent(LoginActivity.this, Journal.class);
+                Intent toJournal = new Intent(LoginActivity.this, JournalActivity.class);
                 LoginActivity.this.startActivity(toJournal);
             } else {
                 mPasswordView.setError(getString(R.string.error_incorrect_password));

@@ -6,23 +6,29 @@
     density="420dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1521919104179"
+    timestamp="1522072805221"
     token="-7005240848069305600"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="617" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="205" />
     <task
         name="verifier"
-        duration="0" />
+        duration="21" />
 
+    <artifact
+        location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
     <artifact
         location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
@@ -39,9 +45,6 @@
         location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
         location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
@@ -56,14 +59,17 @@
     <artifact
         location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
-    <artifact
-        location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\outputs\apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1521919104179"
+        timestamp="1522072805221"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
@@ -80,9 +86,6 @@
             location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
@@ -97,9 +100,6 @@
         <artifact
             location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\build\outputs\apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

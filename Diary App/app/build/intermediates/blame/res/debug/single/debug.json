@@ -172,12 +172,12 @@
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
@@ -200,12 +200,12 @@
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -316,12 +316,12 @@
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -340,12 +340,12 @@
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\9c28416511843895912dc119c5eb9c99\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\9c28416511843895912dc119c5eb9c99\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -416,12 +416,12 @@
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\9c28416511843895912dc119c5eb9c99\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -456,12 +456,12 @@
         "source": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\9c28416511843895912dc119c5eb9c99\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\9c28416511843895912dc119c5eb9c99\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
@@ -520,12 +520,12 @@
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
@@ -540,12 +540,12 @@
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
-        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
@@ -588,12 +588,12 @@
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
@@ -628,12 +628,12 @@
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
-        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\87da2605bd9f80a7b4cf942033c09c06\\res\\layout\\notification_template_media.xml"
-    },
-    {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eb1a514d928e15c6de81dc24c08c295a\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\GreenJames(2015)\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\87da2605bd9f80a7b4cf942033c09c06\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\Users\\GreenJames(2015)\\git\\A_Study_In_HCI\\Diary App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",

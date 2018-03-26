@@ -109,14 +109,14 @@ ADDED from C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\src\main\A
 		ADDED from C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\src\main\AndroidManifest.xml:25:13-57
 	android:name
 		ADDED from C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\src\main\AndroidManifest.xml:24:13-42
-activity#com.james.green.journal.Journal
+activity#com.james.green.journal.JournalActivity
 ADDED from C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\src\main\AndroidManifest.xml:31:9-34:58
 	android:label
 		ADDED from C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\src\main\AndroidManifest.xml:33:13-59
 	android:theme
 		ADDED from C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\src\main\AndroidManifest.xml:34:13-56
 	android:name
-		ADDED from C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\src\main\AndroidManifest.xml:32:13-36
+		ADDED from C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\src\main\AndroidManifest.xml:32:13-44
 uses-sdk
 INJECTED from C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\GreenJames(2015)\git\A_Study_In_HCI\Diary App\app\src\main\AndroidManifest.xml

@@ -29,7 +29,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Journal"
+            android:name=".JournalActivity"
             android:label="@string/title_activity_journal"
             android:theme="@style/AppTheme.NoActionBar"/>
     </application>

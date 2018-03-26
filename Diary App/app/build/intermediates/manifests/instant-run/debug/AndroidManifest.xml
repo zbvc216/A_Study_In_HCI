@@ -39,7 +39,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.james.green.journal.Journal"
+            android:name="com.james.green.journal.JournalActivity"
             android:label="@string/title_activity_journal"
             android:theme="@style/AppTheme.NoActionBar" />
 
